@@ -1,4 +1,4 @@
-<img style="width:64px" src="https://i.imgur.com/r6MpthL.png" />
+<img style="width:64px" src="https://i.imgur.com/xr2VtR1.png" />
 
 # 水果大王
 > Fruit King
