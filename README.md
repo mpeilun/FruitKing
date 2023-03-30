@@ -26,6 +26,12 @@
 #### MediaPipe 訓練畫面
 <img style="width:400px" src="https://i.imgur.com/MOdG6mr.png" />
 
+## License
+
+Fruit King 使用 MIT License 開放原始碼。
+
+Fruit icons created by Freepik - [Flaticon](https://media.flaticon.com/license/license.pdf)
+
 [^1]:Yanwei Liu, 作者, 「[TensorFlow Lite 學習筆記](https://yanwei-liu.medium.com/tensorflow-lite%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-c95e12f97b9a)」. 引見於: 2023年03月30日.
 [^2]:「[Teachable Machine](https://teachablemachine.withgoogle.com/)」. (引見於 2023年03月30日).
 [^3]:行政院資料開放平台, 單位, 「[農產品交易行情](https://data.coa.gov.tw/api.aspx#operations-tag-%E4%BA%A4%E6%98%93%E8%A1%8C%E6%83%85)」. (引見於 2023年03月30日).
