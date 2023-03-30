@@ -1,6 +1,6 @@
 <img style="width:64px" src="https://i.imgur.com/r6MpthL.png" />
 
-# 水國大王
+# 水果大王
 > Fruit King
 
 ## 介紹影片
